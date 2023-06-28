@@ -11,4 +11,4 @@
 
 ## ¿Cómo echar a andar el proyecto?
 - Para el front-end, basta con instalar primero las dependencias con **yarn install** y luego hacer un yarn dev.
-- Para el back-end, fue necesario compilar y luego correr el proyecto con IntelliJ Idea, seleccionando el proyecto, y luego dándole en run.** Es necesario agregar un driver .jar de conexión a la base de datos de MYSQL. Para esto, se hace un ctrl + alt + shift + S, luego en módulos se presiona +, y se agrega el .jar**.
+- Para el back-end, fue necesario compilar y luego correr el proyecto con IntelliJ Idea, seleccionando el proyecto, y luego dándole en run. **Es necesario agregar un driver .jar de conexión a la base de datos de MYSQL. Para esto, se hace un ctrl + alt + shift + S, luego en módulos se presiona +, y se agrega el .jar**.
